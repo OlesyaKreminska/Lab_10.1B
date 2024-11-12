@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_10.1B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{616B536B-EF7E-4680-9FBC-893742C63893}|UnitTest10b\\UnitTest10b.vcxproj|C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_10.1B\\UnitTest10b\\UnitTest10b.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{616B536B-EF7E-4680-9FBC-893742C63893}|UnitTest10b\\UnitTest10b.vcxproj|solutionrelative:UnitTest10b\\UnitTest10b.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409B40BE-E8B9-4CA4-A4EE-49FC80A17131}|Lab_10.1B\\Lab_10.1B.vcxproj|C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_10.1B\\Lab_10.1B\\Lab_10.1B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{409B40BE-E8B9-4CA4-A4EE-49FC80A17131}|Lab_10.1B\\Lab_10.1B.vcxproj|solutionrelative:Lab_10.1B\\Lab_10.1B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest10b.cpp",
+              "DocumentMoniker": "C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_10.1B\\UnitTest10b\\UnitTest10b.cpp",
+              "RelativeDocumentMoniker": "UnitTest10b\\UnitTest10b.cpp",
+              "ToolTip": "C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_10.1B\\UnitTest10b\\UnitTest10b.cpp",
+              "RelativeToolTip": "UnitTest10b\\UnitTest10b.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T07:30:31.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab_10.1B.cpp",
+              "DocumentMoniker": "C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_10.1B\\Lab_10.1B\\Lab_10.1B.cpp",
+              "RelativeDocumentMoniker": "Lab_10.1B\\Lab_10.1B.cpp",
+              "ToolTip": "C:\\Users\\Iryna Kreminska\\source\\repos\\Lab_10.1B\\Lab_10.1B\\Lab_10.1B.cpp",
+              "RelativeToolTip": "Lab_10.1B\\Lab_10.1B.cpp",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAmwK4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T07:28:04.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
